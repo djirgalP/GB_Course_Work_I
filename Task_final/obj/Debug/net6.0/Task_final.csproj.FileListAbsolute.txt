@@ -1,0 +1,15 @@
+D:\_Джиргал_Обучение\__Разработчик\0_7_Course_Work_I\Task_final\bin\Debug\net6.0\Task_final.exe
+D:\_Джиргал_Обучение\__Разработчик\0_7_Course_Work_I\Task_final\bin\Debug\net6.0\Task_final.deps.json
+D:\_Джиргал_Обучение\__Разработчик\0_7_Course_Work_I\Task_final\bin\Debug\net6.0\Task_final.runtimeconfig.json
+D:\_Джиргал_Обучение\__Разработчик\0_7_Course_Work_I\Task_final\bin\Debug\net6.0\Task_final.dll
+D:\_Джиргал_Обучение\__Разработчик\0_7_Course_Work_I\Task_final\bin\Debug\net6.0\Task_final.pdb
+D:\_Джиргал_Обучение\__Разработчик\0_7_Course_Work_I\Task_final\obj\Debug\net6.0\Task_final.csproj.AssemblyReference.cache
+D:\_Джиргал_Обучение\__Разработчик\0_7_Course_Work_I\Task_final\obj\Debug\net6.0\Task_final.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Джиргал_Обучение\__Разработчик\0_7_Course_Work_I\Task_final\obj\Debug\net6.0\Task_final.AssemblyInfoInputs.cache
+D:\_Джиргал_Обучение\__Разработчик\0_7_Course_Work_I\Task_final\obj\Debug\net6.0\Task_final.AssemblyInfo.cs
+D:\_Джиргал_Обучение\__Разработчик\0_7_Course_Work_I\Task_final\obj\Debug\net6.0\Task_final.csproj.CoreCompileInputs.cache
+D:\_Джиргал_Обучение\__Разработчик\0_7_Course_Work_I\Task_final\obj\Debug\net6.0\Task_final.dll
+D:\_Джиргал_Обучение\__Разработчик\0_7_Course_Work_I\Task_final\obj\Debug\net6.0\refint\Task_final.dll
+D:\_Джиргал_Обучение\__Разработчик\0_7_Course_Work_I\Task_final\obj\Debug\net6.0\Task_final.pdb
+D:\_Джиргал_Обучение\__Разработчик\0_7_Course_Work_I\Task_final\obj\Debug\net6.0\Task_final.genruntimeconfig.cache
+D:\_Джиргал_Обучение\__Разработчик\0_7_Course_Work_I\Task_final\obj\Debug\net6.0\ref\Task_final.dll
