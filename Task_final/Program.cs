@@ -4,6 +4,7 @@ using static System.Console;
 Clear();
 WriteLine("Введите значения элементов массива через пробел -> ");
 string[] array = ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
+
 //Определяем сколько элементов массива <=3
 int counter = 0;
 for (int i = 0; i < array.Length; i++)
